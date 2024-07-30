@@ -1,4 +1,5 @@
 国内电视,#genre#
+CCTV-1 综合,http://182.122.74.108:8089/hls/1/index.m3u8
 CCTV-1 综合,http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225962/index.m3u8
 CCTV-1 综合,http://61.138.54.155:2233/hls/8/index.m3u8
 CCTV-1 综合,https://node3.olelive.com:6443/live/CCTV1HD/hls.m3u8
