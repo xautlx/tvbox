@@ -3,7 +3,7 @@
   "lives": [
     {
       "name": "直播",
-      "url": "./ipv4.txt",
+      "url": "./lives-ipv6.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
     }
   ],
